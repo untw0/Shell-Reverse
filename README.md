@@ -35,5 +35,3 @@ To put the code into practice, follow these steps:
 5. **Closing the Connection**: To terminate the connection, type `exit` or press `Ctrl+C` on the client.
 
 By following these steps, you will be practicing the use of the provided code and understanding the concepts related to implementing a reverse shell in C.
-
-I hope this information is helpful for documenting your repository on GitHub!
